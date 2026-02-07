@@ -1,0 +1,65 @@
+.container{
+    display: inline-block;
+    position: relative;
+    left: 40%;
+    background-color: rgb(214, 205, 205);
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+}
+h2{
+    position: absolute;
+    left: 143px;
+    top: 10px;
+}
+p{
+    position: absolute;
+    bottom: 235px;
+}
+.l1{
+    position: absolute;
+    bottom: 215px;
+}
+.l2{
+    position: absolute;
+    bottom: 145px;
+}
+.l3{
+    position: absolute;
+    bottom: 20px;
+}
+button{
+    background-color: rgb(20, 192, 20);
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    width: 400px;
+    bottom: 50px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(25, 220, 25);
+}
+.in1{
+    border: none;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 173px;
+}
+.in2{
+    border: none;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 100px;
+}
+span{
+    position: absolute;
+    bottom: 20px;
+    right: 335px;
+}
